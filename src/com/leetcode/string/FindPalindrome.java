@@ -5,8 +5,6 @@ public class FindPalindrome {
         /*input = madam   output = true
          input = madham  output = true
          input = madhiam output  = false
-
-         Source : paypal
 */
     public static void main(String[] args) {
             String input = "madam";
