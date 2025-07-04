@@ -1,6 +1,17 @@
 package com.leetcode.pattern;
 
 public class Pattern1 {
+
+            /*
+            input = 7
+            Output =
+            1
+            2 4
+            3 6 9
+            4 8 12 16
+            5 10 15 20 25
+            6 12 18 24 30 36
+            7 14 21 28 35 42 49*/
     public static void main(String[] args) {
         int height = 10;
 
