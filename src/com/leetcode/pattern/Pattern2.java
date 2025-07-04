@@ -6,9 +6,13 @@ import java.util.Arrays;
 import java.util.Random;
 
 public class Pattern2 {
+
+    /*
+    * need to print star symbol which number we missing
+    *
+    * */
     public static void main(String[] args) {
         int input = 100;
-        int[] missingValues = new int[10];
 
         for (int i = 1; i <= input; i++) {
 
